@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srijan-raghavula
-- 👀 I’m interested in ...tech
-- 🌱 I’m currently learning ...many things related to my intrests
+- 👀 I’m interested in operating systems, computer hardware and chess.
+- 🌱 I’m currently learning web dev and c language
 - 💞️ I’m looking to collaborate on ...making an operating system
 - 📫 How to reach me ...instagram-"srijan.raghvaula"
 
